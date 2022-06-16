@@ -57,4 +57,4 @@ Ultra rugged.  Built for the military.
 
 There are 4 types of sonim XP3s.  Each one is capable of running on a different major carrier (this is not exactly accurate but; Make sure you buy the correct phone EVEN if its GSM unlocked.  It makes a very big difference which carrier the phone was locked to BEFORE it was unlocked.
 
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+<script src="https://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
